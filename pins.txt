@@ -1,0 +1,18 @@
+display:
+SCL(yellow) at A5
+SDA (orange) at A4
+
+
+flow meter:
+yellow at 5
+
+sonar:
+trig(white) at 4
+echo (gray) at 3
+
+speed:
+D0 (purple) at 2
+
+bluethooth:
+rx (blue) 11
+tx (green) 10
